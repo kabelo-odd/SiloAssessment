@@ -11,7 +11,7 @@ namespace SiloAssessment.Application.Mapping
 {
     public static class BookingsMapping
     {
-        public static Booking MapToBooking(BookingDetail bookingDetail, string bookingID)
+        public static Booking MapToBooking(BookingDetail bookingDetail, string bookingID = "")
         {
             if (bookingID == null || bookingID == "")
                 bookingID = Guid.NewGuid().ToString();

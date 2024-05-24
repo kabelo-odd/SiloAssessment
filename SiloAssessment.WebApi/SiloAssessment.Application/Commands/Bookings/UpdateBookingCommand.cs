@@ -20,6 +20,9 @@ namespace SiloAssessment.Application.Queries
     {
         [JsonProperty("bookingDetail")]
         public BookingDetail BookingDetail { get; set; }
+
+        [JsonProperty("bookingID")]
+        public string BookingId { get; set;}
     }
     public class UpdateBookingCommandHandler : IRequestHandler<UpdateBookingCommand, bool>
     {
@@ -35,12 +38,12 @@ namespace SiloAssessment.Application.Queries
         {
             try
             {
-                var bookings = await _dataContext.GetBookingsByIDAsync(query.BookingDetail.BookingId);
+                var bookings = await _dataContext.GetBookingsByIDAsync(Guid.Parse(query.BookingId));
                 if (bookings == null)
                 {
                     throw new ArgumentException("Booking doesnt exists");
                 }
-                var mappedBoardRoom = BookingsMapping.MapToBooking(query.BookingDetail);
+                var mappedBoardRoom = BookingsMapping.MapToBooking(query.BookingDetail, query.BookingId);
                 await _dataContext.UpdateBooking(mappedBoardRoom,bookings);
                 return true;
             }

@@ -41,7 +41,6 @@ public class BoardRoomRepository : IBoardRoomRepository
             boardRoom.Description = boardRoomRequest.Description;
             boardRoom.Name = boardRoomRequest.Name;
             boardRoom.IsActive = boardRoomRequest.IsActive;
-            // _dataContext.BoardRooms.Update(boardRoomRequest);
             await _dataContext.SaveChangesAsync();
 
             return true;

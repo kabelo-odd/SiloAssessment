@@ -3,80 +3,100 @@
   "WorkspaceRootPath": "C:\\Repos\\SiloAssessment.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.webapi\\controllers\\boardroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|solutionrelative:siloassessment.webapi\\controllers\\boardroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|solutionrelative:siloassessment.webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\queries\\bookings\\getbookingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\queries\\bookings\\getbookingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\bookings\\updatebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\bookings\\updatebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\bookings\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\bookings\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\mapping\\bookingsmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\mapping\\bookingsmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\bookings\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\bookings\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\queries\\boardroom\\getboardroomsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\queries\\boardroom\\getboardroomsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\migrations\\20240523110206_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\migrations\\20240523110206_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\migrations\\20240523214223_addingbookingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\migrations\\20240523214223_addingbookingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\boardroom\\updateboardroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\boardroom\\updateboardroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\boardroom\\createboardroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\boardroom\\createboardroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\mapping\\boardroommappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\mapping\\boardroommappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\requests\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\requests\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\requests\\boardroomdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\requests\\boardroomdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\mapping\\boardroommappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\mapping\\boardroommappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\repositories\\boardroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\repositories\\boardroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\interfaces\\iboardroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\interfaces\\iboardroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\entities\\boardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\entities\\boardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\dto\\boardroomrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\dto\\boardroomrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\dto\\boardroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\dto\\boardroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\interfaces\\iboardroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\interfaces\\iboardroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\boardroom\\createboardroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\boardroom\\createboardroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|solutionrelative:siloassessment.webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.webapi\\controllers\\boardroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|solutionrelative:siloassessment.webapi\\controllers\\boardroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\queries\\bookings\\getbookingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\queries\\bookings\\getbookingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\queries\\boardroom\\getboardroomsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\queries\\boardroom\\getboardroomsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\commands\\requests\\boardroomdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\commands\\requests\\boardroomdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,36 +111,12 @@
       "RelativeMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|solutionrelative:siloassessment.application\\queries\\bookings\\getbookingbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\siloassessment.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\siloassessment.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\entities\\boardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\entities\\boardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A7F7D2A-05B5-4B47-8841-B664F03A5A1E}|SiloAssessment.WebApi\\SiloAssessment.WebApi.csproj|solutionrelative:siloassessment.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.domain\\dto\\boardroomrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176D3B19-1AF9-40B0-99CF-28DBBC4911D3}|SiloAssessment.Domain\\SiloAssessment.Domain.csproj|solutionrelative:siloassessment.domain\\dto\\boardroomrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.infrastructure\\migrations\\20240523110206_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC4146C5-8B2A-4480-8193-F57434C3C7CA}|SiloAssessment.Infrastructure\\SiloAssessment.Infrastructure.csproj|solutionrelative:siloassessment.infrastructure\\migrations\\20240523110206_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7704FE96-D30A-4935-AB26-43CA8A06F87F}|SiloAssessment.Application\\SiloAssessment.Application.csproj|c:\\repos\\siloassessment.webapi\\siloassessment.application\\siloassessment.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -142,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,26 +146,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateBookingCommand.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Bookings\\CreateBookingCommand.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\Bookings\\CreateBookingCommand.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Bookings\\CreateBookingCommand.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Commands\\Bookings\\CreateBookingCommand.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwDAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:33:52.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UpdateBookingCommand.cs",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Bookings\\UpdateBookingCommand.cs",
               "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\Bookings\\UpdateBookingCommand.cs",
               "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Bookings\\UpdateBookingCommand.cs",
               "RelativeToolTip": "SiloAssessment.Application\\Commands\\Bookings\\UpdateBookingCommand.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAswCwAAAAQAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACgAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T18:35:50.306Z",
               "EditorCaption": ""
@@ -177,88 +160,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookingsController.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Controllers\\BookingsController.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.WebApi\\Controllers\\BookingsController.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Controllers\\BookingsController.cs",
-              "RelativeToolTip": "SiloAssessment.WebApi\\Controllers\\BookingsController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:22:43.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetBookingQuery.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\Bookings\\GetBookingQuery.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Queries\\Bookings\\GetBookingQuery.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\Bookings\\GetBookingQuery.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Queries\\Bookings\\GetBookingQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T20:08:59.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IBookingRepository.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Interfaces\\IBookingRepository.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Domain\\Interfaces\\IBookingRepository.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Interfaces\\IBookingRepository.cs",
-              "RelativeToolTip": "SiloAssessment.Domain\\Interfaces\\IBookingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:19:58.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Repositories\\BookingRepository.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "SiloAssessment.Infrastructure\\Repositories\\BookingRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T18:45:43.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "BookingsMapping.cs",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Mapping\\BookingsMapping.cs",
               "RelativeDocumentMoniker": "SiloAssessment.Application\\Mapping\\BookingsMapping.cs",
               "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Mapping\\BookingsMapping.cs",
               "RelativeToolTip": "SiloAssessment.Application\\Mapping\\BookingsMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T19:17:56.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BoardRoomController.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Controllers\\BoardRoomController.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.WebApi\\Controllers\\BoardRoomController.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Controllers\\BoardRoomController.cs",
-              "RelativeToolTip": "SiloAssessment.WebApi\\Controllers\\BoardRoomController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCoAAAA1AAAA",
+              "DocumentIndex": 6,
+              "Title": "BoardRoomMappings.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Mapping\\BoardRoomMappings.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Mapping\\BoardRoomMappings.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Mapping\\BoardRoomMappings.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Mapping\\BoardRoomMappings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:11:08.703Z",
+              "WhenOpened": "2024-05-23T19:10:53.143Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UpdateBoardRoomCommand.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\BoardRoom\\UpdateBoardRoomCommand.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\BoardRoom\\UpdateBoardRoomCommand.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\BoardRoom\\UpdateBoardRoomCommand.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Commands\\BoardRoom\\UpdateBoardRoomCommand.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:16:42.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240523214223_AddingBookingTable.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs",
+              "RelativeToolTip": "SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:42:23.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240523110206_initial.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523110206_initial.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Migrations\\20240523110206_initial.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523110206_initial.cs",
+              "RelativeToolTip": "SiloAssessment.Infrastructure\\Migrations\\20240523110206_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:02:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateBookingCommand.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Bookings\\CreateBookingCommand.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\Bookings\\CreateBookingCommand.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Bookings\\CreateBookingCommand.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Commands\\Bookings\\CreateBookingCommand.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAzwC4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:33:52.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Requests\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\Requests\\BookingDetail.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Requests\\BookingDetail.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Commands\\Requests\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:23:01.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "SiloAssessment.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:45:43.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoardRoomRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Repositories\\BoardRoomRepository.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Repositories\\BoardRoomRepository.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Repositories\\BoardRoomRepository.cs",
+              "RelativeToolTip": "SiloAssessment.Infrastructure\\Repositories\\BoardRoomRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:54:29.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Entities\\Booking.cs",
               "RelativeDocumentMoniker": "SiloAssessment.Domain\\Entities\\Booking.cs",
@@ -271,202 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetBoardRoomsQuery.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomsQuery.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomsQuery.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomsQuery.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomsQuery.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:17:29.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240523214223_AddingBookingTable.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs",
-              "RelativeToolTip": "SiloAssessment.Infrastructure\\Migrations\\20240523214223_AddingBookingTable.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T21:42:23.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookingDetail.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Requests\\BookingDetail.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\Requests\\BookingDetail.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Requests\\BookingDetail.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Commands\\Requests\\BookingDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T19:23:01.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateBoardRoomCommand.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\BoardRoom\\CreateBoardRoomCommand.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\BoardRoom\\CreateBoardRoomCommand.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\BoardRoom\\CreateBoardRoomCommand.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Commands\\BoardRoom\\CreateBoardRoomCommand.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:04:58.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UpdateBoardRoomCommand.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\BoardRoom\\UpdateBoardRoomCommand.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\BoardRoom\\UpdateBoardRoomCommand.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\BoardRoom\\UpdateBoardRoomCommand.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Commands\\BoardRoom\\UpdateBoardRoomCommand.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAwwEAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:16:42.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BoardRoomMappings.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Mapping\\BoardRoomMappings.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Mapping\\BoardRoomMappings.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Mapping\\BoardRoomMappings.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Mapping\\BoardRoomMappings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T19:10:53.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BoardRoomDetail.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Requests\\BoardRoomDetail.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\Requests\\BoardRoomDetail.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Requests\\BoardRoomDetail.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Commands\\Requests\\BoardRoomDetail.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:07:19.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BoardRoomRepository.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Repositories\\BoardRoomRepository.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Repositories\\BoardRoomRepository.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Repositories\\BoardRoomRepository.cs",
-              "RelativeToolTip": "SiloAssessment.Infrastructure\\Repositories\\BoardRoomRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwC4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:54:29.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IBoardRoomRepository.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Interfaces\\IBoardRoomRepository.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Domain\\Interfaces\\IBoardRoomRepository.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Interfaces\\IBoardRoomRepository.cs",
-              "RelativeToolTip": "SiloAssessment.Domain\\Interfaces\\IBoardRoomRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:26:25.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BoardRoomDTO.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BoardRoomDTO.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Domain\\DTO\\BoardRoomDTO.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BoardRoomDTO.cs",
-              "RelativeToolTip": "SiloAssessment.Domain\\DTO\\BoardRoomDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:24:41.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.WebApi\\Program.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Program.cs",
-              "RelativeToolTip": "SiloAssessment.WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T09:38:37.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetBoardRoomByIDQuery.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomByIDQuery.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomByIDQuery.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomByIDQuery.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomByIDQuery.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAawBcAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T13:54:21.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetBookingByIDQuery.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\Bookings\\GetBookingByIDQuery.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Application\\Queries\\Bookings\\GetBookingByIDQuery.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\Bookings\\GetBookingByIDQuery.cs",
-              "RelativeToolTip": "SiloAssessment.Application\\Queries\\Bookings\\GetBookingByIDQuery.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T20:27:03.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookingDTO.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BookingDTO.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Domain\\DTO\\BookingDTO.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BookingDTO.cs",
-              "RelativeToolTip": "SiloAssessment.Domain\\DTO\\BookingDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:31:06.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SiloAssessment.Domain",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\SiloAssessment.Domain.csproj",
-              "RelativeDocumentMoniker": "SiloAssessment.Domain\\SiloAssessment.Domain.csproj",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\SiloAssessment.Domain.csproj",
-              "RelativeToolTip": "SiloAssessment.Domain\\SiloAssessment.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-23T11:24:11.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "BoardRoom.cs",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Entities\\BoardRoom.cs",
               "RelativeDocumentMoniker": "SiloAssessment.Domain\\Entities\\BoardRoom.cs",
@@ -479,33 +302,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.WebApi\\WeatherForecast.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\WeatherForecast.cs",
-              "RelativeToolTip": "SiloAssessment.WebApi\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Domain\\DTO\\BookingDTO.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BookingDTO.cs",
+              "RelativeToolTip": "SiloAssessment.Domain\\DTO\\BookingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T09:09:09.833Z",
+              "WhenOpened": "2024-05-23T15:31:06.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Data\\DataContext.cs",
-              "RelativeToolTip": "SiloAssessment.Infrastructure\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T09:28:54.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 13,
               "Title": "BoardRoomRequestDTO.cs",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BoardRoomRequestDTO.cs",
               "RelativeDocumentMoniker": "SiloAssessment.Domain\\DTO\\BoardRoomRequestDTO.cs",
@@ -518,6 +328,186 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BoardRoomDTO.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BoardRoomDTO.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Domain\\DTO\\BoardRoomDTO.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\DTO\\BoardRoomDTO.cs",
+              "RelativeToolTip": "SiloAssessment.Domain\\DTO\\BoardRoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:24:41.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBoardRoomRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Interfaces\\IBoardRoomRepository.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Domain\\Interfaces\\IBoardRoomRepository.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Interfaces\\IBoardRoomRepository.cs",
+              "RelativeToolTip": "SiloAssessment.Domain\\Interfaces\\IBoardRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:26:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Domain\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "SiloAssessment.Domain\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:19:58.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateBoardRoomCommand.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\BoardRoom\\CreateBoardRoomCommand.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\BoardRoom\\CreateBoardRoomCommand.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\BoardRoom\\CreateBoardRoomCommand.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Commands\\BoardRoom\\CreateBoardRoomCommand.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wDkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:04:58.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.WebApi\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "SiloAssessment.WebApi\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:22:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BoardRoomController.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Controllers\\BoardRoomController.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.WebApi\\Controllers\\BoardRoomController.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Controllers\\BoardRoomController.cs",
+              "RelativeToolTip": "SiloAssessment.WebApi\\Controllers\\BoardRoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:11:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Data\\DataContext.cs",
+              "RelativeToolTip": "SiloAssessment.Infrastructure\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:28:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetBookingQuery.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\Bookings\\GetBookingQuery.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Queries\\Bookings\\GetBookingQuery.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\Bookings\\GetBookingQuery.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Queries\\Bookings\\GetBookingQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:08:59.081Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetBoardRoomsQuery.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomsQuery.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomsQuery.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomsQuery.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomsQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:17:29.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BoardRoomDetail.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Requests\\BoardRoomDetail.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Commands\\Requests\\BoardRoomDetail.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Commands\\Requests\\BoardRoomDetail.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Commands\\Requests\\BoardRoomDetail.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:07:19.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.WebApi\\Program.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\Program.cs",
+              "RelativeToolTip": "SiloAssessment.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:38:37.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetBoardRoomByIDQuery.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomByIDQuery.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomByIDQuery.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomByIDQuery.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Queries\\BoardRoom\\GetBoardRoomByIDQuery.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawBcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:54:21.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetBookingByIDQuery.cs",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\Bookings\\GetBookingByIDQuery.cs",
+              "RelativeDocumentMoniker": "SiloAssessment.Application\\Queries\\Bookings\\GetBookingByIDQuery.cs",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\Queries\\Bookings\\GetBookingByIDQuery.cs",
+              "RelativeToolTip": "SiloAssessment.Application\\Queries\\Bookings\\GetBookingByIDQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:27:03.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SiloAssessment.Domain.csproj",
+              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\SiloAssessment.Domain.csproj",
+              "RelativeDocumentMoniker": "SiloAssessment.Domain\\SiloAssessment.Domain.csproj",
+              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Domain\\SiloAssessment.Domain.csproj",
+              "RelativeToolTip": "SiloAssessment.Domain\\SiloAssessment.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T11:24:11.214Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 28,
               "Title": "DataContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
@@ -526,38 +516,23 @@
               "RelativeToolTip": "SiloAssessment.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:05:19.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T12:05:19.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "20240523110206_initial.cs",
-              "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523110206_initial.cs",
-              "RelativeDocumentMoniker": "SiloAssessment.Infrastructure\\Migrations\\20240523110206_initial.cs",
-              "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Infrastructure\\Migrations\\20240523110206_initial.cs",
-              "RelativeToolTip": "SiloAssessment.Infrastructure\\Migrations\\20240523110206_initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:02:06.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "SiloAssessment.Application",
+              "Title": "SiloAssessment.Application.csproj",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\SiloAssessment.Application.csproj",
               "RelativeDocumentMoniker": "SiloAssessment.Application\\SiloAssessment.Application.csproj",
               "ToolTip": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.Application\\SiloAssessment.Application.csproj",
               "RelativeToolTip": "SiloAssessment.Application\\SiloAssessment.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-23T11:15:33.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T11:15:33.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "SiloAssessment.WebApi\\appsettings.json",
@@ -565,12 +540,11 @@
               "RelativeToolTip": "SiloAssessment.WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-23T09:32:38.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T09:32:38.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Repos\\SiloAssessment.WebApi\\SiloAssessment.tests\\Class1.cs",
               "RelativeDocumentMoniker": "SiloAssessment.tests\\Class1.cs",
@@ -578,8 +552,7 @@
               "RelativeToolTip": "SiloAssessment.tests\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T09:08:30.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T09:08:30.173Z"
             }
           ]
         }

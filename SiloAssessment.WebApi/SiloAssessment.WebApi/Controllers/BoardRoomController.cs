@@ -1,7 +1,6 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using SiloAssessment.Application.Commands.BoardRoom;
-using SiloAssessment.Application.Queries;
 using SiloAssessment.Application.Queries.BoardRoom;
 
 namespace SiloAssessment.WebApi.Controllers
