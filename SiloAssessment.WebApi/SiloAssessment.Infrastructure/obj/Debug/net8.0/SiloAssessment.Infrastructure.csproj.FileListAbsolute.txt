@@ -1,0 +1,17 @@
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\bin\Debug\net8.0\SiloAssessment.Infrastructure.deps.json
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\bin\Debug\net8.0\SiloAssessment.Infrastructure.runtimeconfig.json
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\bin\Debug\net8.0\SiloAssessment.Infrastructure.dll
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\bin\Debug\net8.0\SiloAssessment.Infrastructure.pdb
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\bin\Debug\net8.0\SiloAssessment.Domain.dll
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\bin\Debug\net8.0\SiloAssessment.Domain.pdb
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAssessment.Infrastructure.csproj.AssemblyReference.cache
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAssessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAssessment.Infrastructure.AssemblyInfoInputs.cache
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAssessment.Infrastructure.AssemblyInfo.cs
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAsse.0ABC7EDD.Up2Date
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAssessment.Infrastructure.dll
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\refint\SiloAssessment.Infrastructure.dll
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAssessment.Infrastructure.pdb
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\SiloAssessment.Infrastructure.genruntimeconfig.cache
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Infrastructure\obj\Debug\net8.0\ref\SiloAssessment.Infrastructure.dll

@@ -1,0 +1,14 @@
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\bin\Debug\net8.0\SiloAssessment.Domain.deps.json
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\bin\Debug\net8.0\SiloAssessment.Domain.runtimeconfig.json
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\bin\Debug\net8.0\SiloAssessment.Domain.dll
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\bin\Debug\net8.0\SiloAssessment.Domain.pdb
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\SiloAssessment.Domain.csproj.AssemblyReference.cache
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\SiloAssessment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\SiloAssessment.Domain.AssemblyInfoInputs.cache
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\SiloAssessment.Domain.AssemblyInfo.cs
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\SiloAssessment.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\SiloAssessment.Domain.dll
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\refint\SiloAssessment.Domain.dll
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\SiloAssessment.Domain.pdb
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\SiloAssessment.Domain.genruntimeconfig.cache
+C:\Repos\SiloAssessment.WebApi\SiloAssessment.Domain\obj\Debug\net8.0\ref\SiloAssessment.Domain.dll

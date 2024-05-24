@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pWmgSuwvCf7LKe61eEuKwBmv5Ke0XvXeb5T6VVYOUcc=",
+  "Source": "SiloAssessment.WebApi",
+  "BasePath": "_content/SiloAssessment.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
